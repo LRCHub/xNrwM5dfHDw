@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヴァーチャル・インサニティ",
+  "base_artist": "Jamiroquai",
+  "createdAt": "2026-03-06T12:20:03.044738Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/pl_01_Virtual_Insanity_Jamiroquai.txt"
+    }
+  ]
+}
